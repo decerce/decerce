@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joyce @DeCerce
+- 👀 I’m interested in political tech. In my spare time, I'm building software for Democrats and progressives to run their campaigns better.
+- 🌱 I’m currently learning the MEAN and MERN stacks, but I'm interested in Ruby on Rails as well. I also love data science and AI!
+- 💞️ I’m looking to collaborate on progressive tech that makes political organizers' jobs easier.
+- 📫 How to reach me: DM me on Twitter @JoyceDeCerce.
