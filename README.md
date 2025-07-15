@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Joyce @DeCerce
 - 👀 I’m interested in political tech. In my spare time, I'm building software for Democrats and progressives to run their campaigns better.
-- 🌱 I’m currently learning the MEAN and MERN stacks, but I'm interested in Ruby on Rails as well. I also love data science and AI!
+- 💼 My most recent job was running compliance + political accounting for the DNC and Harris Victory Fund.
+- 🖋 I mainly write code in TypeScript/JavaScript, especially Node, React, and Express. I'm a big fan of Next.js and I know my way around SQL and NoSQL databases.
+- 🌱 Everything I have learned about Perl has been against my will; still, I am slowly but surely learning to script with it.
 - 💞️ I’m looking to collaborate on progressive tech that makes political organizers' jobs easier.
 - 📫 How to reach me: DM me on Twitter @JoyceDeCerce.
